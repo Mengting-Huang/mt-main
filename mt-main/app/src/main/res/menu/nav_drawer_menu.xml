@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miItem1"
+        android:icon="@drawable/ic_pawprint"
+        android:title="My Pets" />
+
+    <item
+        android:id="@+id/miItem2"
+        android:title="Vaccination"
+        android:icon="@drawable/ic_vaccination"/>
+
+    <item
+        android:id="@+id/miItem3"
+        android:title="Medication"
+        android:icon="@drawable/ic_medication"/>
+
+    <item
+        android:id="@+id/miItem4"
+        android:title="Check-ups"
+        android:icon="@drawable/ic_check_up"/>
+
+    <item
+        android:id="@+id/miItem5"
+        android:title="News"
+        android:icon="@drawable/ic_news"/>
+
+    <item
+        android:id="@+id/miItem6"
+        android:title="Parasite prevention"
+        android:icon="@drawable/ic_parasite"/>
+
+    <item
+        android:id="@+id/miItem7"
+        android:title="Subscription"
+        android:icon="@drawable/ic_subscription"/>
+
+    <item
+        android:id="@+id/miItem8"
+        android:title="Contact Us"
+        android:icon="@drawable/ic_contact_us"/>
+
+    <item
+        android:id="@+id/miItem9"
+        android:title="Account setting"
+        android:icon="@drawable/ic_settings"/>
+
+    <item
+        android:id="@+id/miItem10"
+        android:title="Basic decision support system"
+        android:icon="@drawable/ic_support"/>
+
+</menu>

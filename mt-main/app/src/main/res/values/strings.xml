@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="gg">gg</string>
+    <string name="username">username</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password">password</string>
+    <string name="btnlogin">btnlogin</string>
+    <string name="btnregister">btnRegister</string>
+    <string name="btnforgot">btnForgot</string>
+    <string name="login">Login</string>
+    <string name="ForgotPassword">ForgotPassword</string>
+    <string name="Register">Register</string>
+    <string name="Forgot">Forgot Password</string>
+    <string name="logoS">LogoS</string>
+    <string name="Account">Account</string>
+    <string name="Password">Password</string>
+    <string name="version1_0">Version1.0</string>
+    <string name="vesion_1_0">Vesion 1.0</string>
+    <string name="creat_account">Creat Account</string>
+    <string name="create_accout_here">Create Accout Here</string>
+    <string name="logo">Logo</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="LogoS">LogoS</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
